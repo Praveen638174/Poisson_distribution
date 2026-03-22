@@ -1,4 +1,9 @@
+
+# Name : Praveen Raj G
+# Reg no : 212224040245
+
 # Fitting Poisson  distribution
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
